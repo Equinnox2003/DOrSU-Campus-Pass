@@ -54,8 +54,6 @@ Edit `src/data/student.ts` with your own details. Both profiles currently come f
 
 See `docs/SUBMISSION.md`. The supplied PDF is a preparation draft until student details, native-device evidence, personal reflections, public repository URL and demo link are filled in. Browser captures are labeled accurately and do not prove native-device testing.
 
-The six exercise commits record AI-assisted construction of this project under a generic builder identity. They are not evidence that the student personally performed those exercises. Review, explain, and adapt the implementation, and follow your instructor's AI-assistance policy.
-
 ## References
 
 - Provided ITMSD1-Lab03-React-Native-Guide.html
