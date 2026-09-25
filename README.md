@@ -46,11 +46,6 @@ src/styles/theme.ts        Shared colors
 assets/avatar.png          Local placeholder avatar
 ```
 
-## Personalize
-
-Edit `src/data/student.ts` with your own details. Both profiles currently come from the guide and are labeled SAMPLE ID. Update that label and the sample-identities footer if you replace the sample data. Keep personal data exposure in mind before publishing a public repository; the sample data can remain in the public demo if your instructor permits it.
-
-## Submission
 
 See `docs/SUBMISSION.md`. The supplied PDF is a preparation draft until student details, native-device evidence, personal reflections, public repository URL and demo link are filled in. Browser captures are labeled accurately and do not prove native-device testing.
 
