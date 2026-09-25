@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "DOrSU Digital Campus Pass",
+    "slug": "dorsu-campus-pass",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ICON.png",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
